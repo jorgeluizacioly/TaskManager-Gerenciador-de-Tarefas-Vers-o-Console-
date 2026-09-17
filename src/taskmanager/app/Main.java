@@ -23,7 +23,7 @@ public class Main {
             System.out.println("4. Remover tarefa");
             System.out.println("5. Sair");
             System.out.print("Escolha uma opção: ");
-            System.out.println("(Caso escolha a errada vai da errado)");
+            
 
             opcao = scanner.nextInt();
             scanner.nextLine(); 
